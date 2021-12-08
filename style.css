@@ -1,0 +1,12 @@
+body {
+  background-color: #3d3b3b;
+  text-align: center;
+}
+
+#next {
+  background-image: linear-gradient(to bottom,#0000ff,#ff00ff);
+}
+
+#previous {
+  background-image: linear-gradient(to bottom,#ff0000,#ff00ff);
+}
